@@ -1,1 +1,1 @@
-# iamge-processing-on-cat-dog-dataset
+# imge-processing-on-cat-dog-dataset
